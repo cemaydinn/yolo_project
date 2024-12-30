@@ -4,6 +4,18 @@
 YOLO (You Only Look Once) is a state-of-the-art, real-time object detection system. Unlike traditional object detection methods that apply a classifier to different regions of an image, YOLO processes the entire image in a single pass, making it both fast and accurate. This repository provides an implementation of YOLO using OpenCV's Deep Neural Network (DNN) module, enabling real-time object detection for various applications.
 
 ---
+# YOLO (You Only Look Once)
+
+## Architecture
+![YOLO Architecture](images/YOLO_V1.PNG)
+
+## Example Detection
+![YOLO Detection Example](images/1.PNG)
+
+## Process Overview
+![YOLO Process](images/YOLO.PNG)
+---
+
 
 ## Features
 - **Real-Time Object Detection**: Detect objects in images or video streams with high speed and accuracy.
